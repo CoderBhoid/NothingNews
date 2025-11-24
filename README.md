@@ -14,7 +14,7 @@ Cohesive Design: Uses the signature Dot Matrix typography and Glyph interface la
 👆 Reader Mode: Distraction-free article viewing with smooth animations . <br>
 Website for Mac/Windows:https://n-newz.vercel.app/ <br>
 📥 Download <br>
-You can download the latest .apk from the [suspicious link removed]. <br>
+You can download the latest .apk from the <a href='https://github.com/CoderBhoid/NothingNews/releases/tag/releases'>releases</a>. <br>
 Requirements: <br>
 Android 6.0 or higher. <br>
 Optimized for Nothing Phone (1), (2), and (2a). <br>
